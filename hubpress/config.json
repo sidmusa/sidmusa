@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "uno"
+    "name": "the-shell"
   },
   "urls": {
     "site": "https://sidmusa.github.io",
     "hubpress": "http://learnpanda.netlify.com",
-    "theme": "//sidmusa.github.io/themes/uno-zen",
+    "theme": "//sidmusa.github.io/themes/uno",
     "images": "https://sidmusa.github.io/images"
   },
   "initialisationConfigComponent": {

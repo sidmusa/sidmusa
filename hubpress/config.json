@@ -10,8 +10,8 @@
   },
   "urls": {
     "site": "https://sidmusa.github.io",
-    "hubpress": "https://piano-tuner-growths-15873.netlify.com",
-    "theme": "//sidmusa.github.io/themes/the-shell",
+    "hubpress": "http://learnpanda.netlify.com",
+    "theme": "//sidmusa.github.io/themes/uno-zen",
     "images": "https://sidmusa.github.io/images"
   },
   "initialisationConfigComponent": {

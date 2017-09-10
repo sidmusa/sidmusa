@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "the-shell"
+    "name": "uno-zen"
   },
   "urls": {
     "site": "https://sidmusa.github.io",
     "hubpress": "https://piano-tuner-growths-15873.netlify.com",
-    "theme": "//sidmusa.github.io/themes/saga",
+    "theme": "//sidmusa.github.io/themes/the-shell",
     "images": "https://sidmusa.github.io/images"
   },
   "initialisationConfigComponent": {

@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "saga"
+    "name": "the-shell"
   },
   "urls": {
     "site": "https://sidmusa.github.io",
     "hubpress": "https://piano-tuner-growths-15873.netlify.com",
-    "theme": "//sidmusa.github.io/themes/roon",
+    "theme": "//sidmusa.github.io/themes/saga",
     "images": "https://sidmusa.github.io/images"
   },
   "initialisationConfigComponent": {

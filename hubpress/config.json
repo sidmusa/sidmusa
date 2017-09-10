@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ichi"
+    "name": "roon"
   },
   "urls": {
     "site": "https://sidmusa.github.io",
     "hubpress": "https://piano-tuner-growths-15873.netlify.com",
-    "theme": "//sidmusa.github.io/themes/ghostium",
+    "theme": "//sidmusa.github.io/themes/ichi",
     "images": "https://sidmusa.github.io/images"
   },
   "initialisationConfigComponent": {

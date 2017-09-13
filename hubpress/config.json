@@ -10,8 +10,8 @@
   },
   "urls": {
     "site": "https://sidmusa.github.io",
-    "hubpress": "http://learnpanda.netlify.com",
-    "theme": "//sidmusa.github.io/themes/uno",
+    "hubpress": "https://sidmusa.github.io",
+    "theme": "//sidmusa.github.io/themes/the-shell",
     "images": "https://sidmusa.github.io/images"
   },
   "initialisationConfigComponent": {

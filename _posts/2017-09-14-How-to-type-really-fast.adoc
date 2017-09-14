@@ -1,0 +1,26 @@
+// = Dark theme
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+= How to type fast like a pro 
+
+These are some sites which can help you type faster. If you don't know how to type without looking at the keyboard, then start with typing.com
+
+After that, try 
+
+https://typegun.com
+
+https://nitrotype.com
+
+https://10fastfingers.com
+
+http://typeracer.com.
+
+typegun is very cool! Just practice daily, even if it's for just 4-5 minutes. Take some tests daily. This will definitely increase your typing speed and if you're a beginner soon you'll be typing around 100 WPM.
+
+If you want to type for longer periods, then you may want to listen to music. Some radio stations can be found at shoutcast.com and internet-radio.com. You can use VLC media player to play the stations. You can also use other players like Cantata if you're on Linux. 
+
+Happy typing!
+

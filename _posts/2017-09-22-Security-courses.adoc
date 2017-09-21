@@ -1,0 +1,50 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+= Security courses
+
+Here are some links to security courses:
+
+Web Security Fundamentals - https://www.edx.org/course/web-security-fundamentals-kuleuvenx-websecx#!
+
+Introduction to Cyber Security - https://www.edx.org/course/introduction-cybersecurity-uwashingtonx-cyb001x
+
+Cybersecurity: The CISO's view: https://www.edx.org/course/cybersecurity-cisos-view-uwashingtonx-cyb002x
+
+Building a Cyber Security Toolkit = https://www.edx.org/course/building-cybersecurity-toolkit-uwashingtonx-cyb003x
+
+Cyber Security: Career Self-Assesment: https://www.edx.org/course/cybersecurity-career-self-assessment-uwashingtonx-cyb004x
+
+https://www.cybrary.it/
+
+https://www.edx.org/micromasters/ritx-cybersecurity
+
+Information Security: http://nptel.ac.in/courses/106106129/
+
+Information Security II: http://nptel.ac.in/courses/106106141/
+
+Information Security III: http://nptel.ac.in/courses/106106157/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

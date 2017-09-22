@@ -9,11 +9,17 @@
 
 https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw
 
-If you want to create a static site using hugo and deploy to netlify and github pages watch this tutorial
+If you want to create a static site using hugo and deploy to github pages watch this tutorial
 
 https://www.youtube.com/watch?v=oUjk6wpJn7I
 
+You can also deploy your site to netlify 
+
+If your site is at github.com/example/penguin
+
+Then type app.netlify.com/start/deploy?repository=https://github.com/example/penguin
+
 More static sites can be found at 
 
-staticgen.com
+https://staticgen.com
 

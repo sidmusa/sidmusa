@@ -1,0 +1,19 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+= Static Site Generator tutorials
+
+https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw
+
+If you want to create a static site using hugo and deploy to netlify and github pages watch this tutorial
+
+https://www.youtube.com/watch?v=oUjk6wpJn7I
+
+More static sites can be found at 
+
+staticgen.com
+

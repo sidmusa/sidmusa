@@ -5,7 +5,7 @@
 // :hp-tags: HubPress, Blog, Open_Source,
 // :hp-alt-title: My English Title
 
-= Front-End Web Developer Courses
+= Web Developer Courses
 
 
 Intro to HTML and CSS - https://udacity.com/course/ud304
@@ -31,3 +31,36 @@ Intro to AJAX - https://udacity.com/course/ud110
 JavaScript Design Patterns - https://udacity.com/course/ud989
 
 JavaScript Testing - https://udacity.com/course/ud549
+
+Programming Foundations with Python - https://udacity.com/course/ud036
+
+Intro to Relational Databases - https://udacity.com/course/ud197
+
+Authentication & Authorization: OAuth - https://udacity.com/course/ud330
+
+Linux Command Line Basics - https://udacity.com/course/ud595
+
+Configuring Linux Web Servers - https://udacity.com/course/ud299
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

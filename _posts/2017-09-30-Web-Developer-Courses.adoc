@@ -48,6 +48,10 @@ Google Maps APIs - https://udacity.com/course/google-maps-apis--ud864
 
 Intro to Progressive Web Apps - https://udacity.com/course/intro-to-progressive-web-apps--ud811
 
+HTTP & Web Servers - https://udacity.com/course/http-web-servers--ud303
+
+Client-Server Communication - https://udacity.com/course/client-server-communication--ud897
+
 
 
 

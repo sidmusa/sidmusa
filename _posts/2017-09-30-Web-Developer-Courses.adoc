@@ -52,12 +52,13 @@ HTTP & Web Servers - https://udacity.com/course/http-web-servers--ud303
 
 Client-Server Communication - https://udacity.com/course/client-server-communication--ud897
 
+Building High Conversion Web Forms - https://udacity.com/course/building-high-conversion-web-forms--ud890
 
+Offline Web Applications - https://udacity.com/course/offline-web-applications--ud899
 
+JavaScript Promises - https://udacity.com/course/javascript-promises--ud898
 
-
-
-
+Web Accessibility - https://udacity.com/course/web-accessibility--ud891
 
 
 

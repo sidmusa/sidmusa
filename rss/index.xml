@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Void]]></title><description><![CDATA[simple things in a simple way]]></description><link>https://sidmusa.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 30 Sep 2017 16:22:25 GMT</lastBuildDate><atom:link href="https://sidmusa.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Web Developer Courses]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Void]]></title><description><![CDATA[simple things in a simple way]]></description><link>https://sidmusa.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 30 Sep 2017 16:26:17 GMT</lastBuildDate><atom:link href="https://sidmusa.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Web Developer Courses]]></title><description><![CDATA[<div class="paragraph">
 <p>Intro to HTML and CSS - <a href="https://udacity.com/course/ud304" class="bare">https://udacity.com/course/ud304</a></p>
 </div>
 <div class="paragraph">
@@ -75,6 +75,9 @@
 </div>
 <div class="paragraph">
 <p>Web Accessibility - <a href="https://udacity.com/course/web-accessibility&#8212;&#8203;ud891" class="bare">https://udacity.com/course/web-accessibility&#8212;&#8203;ud891</a></p>
+</div>
+<div class="paragraph">
+<p>Web Tooling and Automation - <a href="https://udacity.com/course/ud892" class="bare">https://udacity.com/course/ud892</a></p>
 </div>]]></description><link>https://sidmusa.github.io/2017/09/30/Web-Developer-Courses.html</link><guid isPermaLink="true">https://sidmusa.github.io/2017/09/30/Web-Developer-Courses.html</guid><pubDate>Sat, 30 Sep 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Android Developer Courses]]></title><description><![CDATA[<div class="paragraph">
 <p>Developing Android Apps - <a href="https://udacity.com/course/ud851" class="bare">https://udacity.com/course/ud851</a></p>
 </div>

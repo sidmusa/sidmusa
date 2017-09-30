@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Void]]></title><description><![CDATA[simple things in a simple way]]></description><link>https://sidmusa.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 30 Sep 2017 14:40:58 GMT</lastBuildDate><atom:link href="https://sidmusa.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Web Developer Courses]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Void]]></title><description><![CDATA[simple things in a simple way]]></description><link>https://sidmusa.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 30 Sep 2017 14:42:31 GMT</lastBuildDate><atom:link href="https://sidmusa.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Web Developer Courses]]></title><description><![CDATA[<div class="paragraph">
 <p>Intro to HTML and CSS - <a href="https://udacity.com/course/ud304" class="bare">https://udacity.com/course/ud304</a></p>
 </div>
 <div class="paragraph">
@@ -50,7 +50,13 @@
 <p>Configuring Linux Web Servers - <a href="https://udacity.com/course/ud299" class="bare">https://udacity.com/course/ud299</a></p>
 </div>
 <div class="paragraph">
-<p>Full Stack Foundations - <a href="https://in.udacity.com/course/ud088" class="bare">https://in.udacity.com/course/ud088</a></p>
+<p>Full Stack Foundations - <a href="https://udacity.com/course/ud088" class="bare">https://udacity.com/course/ud088</a></p>
+</div>
+<div class="paragraph">
+<p>Google Maps APIs - <a href="https://udacity.com/course/google-maps-apis&#8212;&#8203;ud864" class="bare">https://udacity.com/course/google-maps-apis&#8212;&#8203;ud864</a></p>
+</div>
+<div class="paragraph">
+<p>Intro to Progressive Web Apps - <a href="https://udacity.com/course/intro-to-progressive-web-apps&#8212;&#8203;ud811" class="bare">https://udacity.com/course/intro-to-progressive-web-apps&#8212;&#8203;ud811</a></p>
 </div>]]></description><link>https://sidmusa.github.io/2017/09/30/Web-Developer-Courses.html</link><guid isPermaLink="true">https://sidmusa.github.io/2017/09/30/Web-Developer-Courses.html</guid><pubDate>Sat, 30 Sep 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Android Developer Courses]]></title><description><![CDATA[<div class="paragraph">
 <p>Developing Android Apps - <a href="https://udacity.com/course/ud851" class="bare">https://udacity.com/course/ud851</a></p>
 </div>

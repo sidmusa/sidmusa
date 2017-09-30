@@ -1,0 +1,33 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+= Front end web developer courses
+
+
+Intro to HTML and CSS - https://udacity.com/course/ud304
+
+Responsive Images - https://udacity.com/course/ud882
+
+Responsive Web Design Fundamentals - https://udacity.com/course/ud893
+
+JavaScript Basics - https://udacity.com/course/ud804
+
+Intro to JQuery - https://udacity.com/course/ud245
+
+Object-Oriented JavaScript - https://udacity.com/course/ud015
+
+HTML5 Canvas - https://udacity.com/course/ud292
+
+Browser Rendering Optimization - https://udacity.com/course/ud860
+
+Website Performance Optimization - https://udacity.com/course/ud884
+
+Intro to AJAX - https://udacity.com/course/ud110
+
+JavaScript Design Patterns - https://udacity.com/course/ud989
+
+JavaScript Testing - https://udacity.com/course/ud549

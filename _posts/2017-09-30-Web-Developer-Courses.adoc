@@ -42,8 +42,11 @@ Linux Command Line Basics - https://udacity.com/course/ud595
 
 Configuring Linux Web Servers - https://udacity.com/course/ud299
 
-Full Stack Foundations - https://in.udacity.com/course/ud088
+Full Stack Foundations - https://udacity.com/course/ud088
 
+Google Maps APIs - https://udacity.com/course/google-maps-apis--ud864
+
+Intro to Progressive Web Apps - https://udacity.com/course/intro-to-progressive-web-apps--ud811
 
 
 

@@ -5,7 +5,7 @@
 // :hp-tags: HubPress, Blog, Open_Source,
 // :hp-alt-title: My English Title
 
-= Front end web developer courses
+= Front-End Web Developer Courses
 
 
 Intro to HTML and CSS - https://udacity.com/course/ud304

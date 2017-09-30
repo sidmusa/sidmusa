@@ -24,7 +24,7 @@ HTML5 Canvas - https://udacity.com/course/ud292
 
 Browser Rendering Optimization - https://udacity.com/course/ud860
 
-Website Performance Optimization - https://udacity.com/course/ud860
+Website Performance Optimization - https://udacity.com/course/ud884
 
 Intro to AJAX - https://udacity.com/course/ud110
 

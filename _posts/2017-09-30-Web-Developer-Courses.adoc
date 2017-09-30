@@ -60,6 +60,8 @@ JavaScript Promises - https://udacity.com/course/javascript-promises--ud898
 
 Web Accessibility - https://udacity.com/course/web-accessibility--ud891
 
+Web Tooling and Automation - https://udacity.com/course/ud892
+
 
 
 

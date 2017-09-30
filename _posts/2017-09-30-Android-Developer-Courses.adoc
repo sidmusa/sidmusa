@@ -13,3 +13,7 @@ Gradle for Android and Java - https://udacity.com/course/ud867
 
 Material Design for Android Developers - https://udacity.com/course/ud862
 
+Android Basics: User Interface - https://udacity.com/course/android-basics-user-interface--ud834
+
+
+
